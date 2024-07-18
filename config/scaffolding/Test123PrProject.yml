@@ -12,3 +12,7 @@ services:
   packages:
   - name: Test123PrProject
     version: "1.0"
+- serviceName: pub.date:calculateDateDifference
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.1018
