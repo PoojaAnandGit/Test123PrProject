@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/PoojaAnandGit/Test123PrProject
   gitUsername: PoojaAnandGit
   gitBranch: main
+services:
+- serviceName: project.test123pr.integrations:testEdgeSave
+  packages:
+  - name: Test123PrProject
+    version: "1.0"
